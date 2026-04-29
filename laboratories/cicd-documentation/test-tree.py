@@ -1,5 +1,5 @@
 import unittest
-
+from tree import Tree
 class TestTreeFind(unittest.TestCase):
     
     def setUp(self):
